@@ -11,6 +11,4 @@ torchvision
 transformers
 evaluate
 accelerate
-ipywidgets
-optuna
 gdown
