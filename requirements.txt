@@ -1,0 +1,16 @@
+datasets
+matplotlib
+pillow
+numpy
+opencv-python
+ipykernel
+nbformat
+scikit-learn
+torch
+torchvision
+transformers
+evaluate
+accelerate
+ipywidgets
+optuna
+gdown
